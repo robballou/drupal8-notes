@@ -1,8 +1,8 @@
 # Entities
 
-1. List Builder
-2. Interface
-3. Access Control Handler
+1. [List Builder](#list-builder)
+2. [Interface](#interface)
+3. [Access Control Handler](#access-control-handler)
 
 ## List Builder
 
